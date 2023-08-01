@@ -8,7 +8,7 @@ Se realizarán sesiones en vivo de aproximadamente dos horas al día, del lunes 
 
 ## Herramientas
 
-# Resumen de la Primera Clase
+### Resumen de la Primera Clase
 
 En la primera clase, abordamos los siguientes temas:
 
@@ -26,7 +26,7 @@ En la primera clase, abordamos los siguientes temas:
    - Explicación de los componentes visuales principales y cómo se utilizan para diseñar la interfaz de usuario.
    - Introducción al flujo de trabajo y cómo configurar acciones y respuestas a eventos.
 
-## Enlaces Relevantes
+### Enlaces Relevantes
 
 - Grabación de la primera clase: [YouTube](https://www.youtube.com/watch?v=fNq8sILOalo)
 - 8base.com: [Sitio Web](https://www.8base.com/)
@@ -36,7 +36,7 @@ En la primera clase, abordamos los siguientes temas:
 
 ## Ejercicios
 
-# Día 1.
+### Día 1.
 
 Ingresar a bubble.io y crear una cuenta (Registrarse como usuario).
 Interactuar con el editor de Bubble y los diferentes componentes.
