@@ -26,13 +26,34 @@ En la primera clase, abordamos los siguientes temas:
    - Explicación de los componentes visuales principales y cómo se utilizan para diseñar la interfaz de usuario.
    - Introducción al flujo de trabajo y cómo configurar acciones y respuestas a eventos.
 
+
+### Resumen de la Segunda Clase
+
+En nuestra segunda clase, exploramos los siguientes temas:
+
+1. Componentes de Tipo Container:
+   - Introducción a los componentes container y su función como contenedores visuales para otros elementos.
+   - Cómo utilizar los containers para agrupar y organizar otros componentes en la interfaz de usuario.
+
+2. Componente Input Text y Formularios:
+   - Detalles sobre el componente Input Text de la sección Input Form.
+   - Creación de formularios interactivos utilizando el componente Input Text para recopilar información de los usuarios.
+
+3. Creación de Formularios y Workflows:
+   - Diseño y configuración de un formulario pequeño para crear registros.
+   - Establecimiento de un workflow para guardar la información del formulario en la tabla de usuarios.
+
+4. Funcionalidad de Login y Logout:
+   - Configuración de un formulario de login para autenticar a los usuarios.
+   - Implementación de un botón para realizar el logout y cerrar la sesión de usuario.
+
 ### Enlaces Relevantes
 
-- Grabación de la primera clase: [YouTube](https://www.youtube.com/watch?v=fNq8sILOalo)
 - 8base.com: [Sitio Web](https://www.8base.com/)
 - Bubble.io: [Sitio Web](https://bubble.io/)
 - Documentación de Bubble.io: [Documentación](https://manual.bubble.io/)
 - Academia de Bubble.io: [Academia](https://bubble.io/academy)
+- Ruta de Aprendizaje en Desarrollo: [roadmap.sh](https://roadmap.sh/)
 
 ## Ejercicios
 
@@ -41,6 +62,12 @@ En la primera clase, abordamos los siguientes temas:
 Ingresar a bubble.io y crear una cuenta (Registrarse como usuario).
 Interactuar con el editor de Bubble y los diferentes componentes.
 
+### Día 2.
+
+Crea un Formulario para hacer un registro de un usuario y configura las acciónes necesarias para realizar el registro de forma exitosa.
+Crea un Formulario explorando algunos de los componentes Input Forms
+
 ## Clases
 
-Día 1: [YouTube](https://www.youtube.com/watch?v=fNq8sILOalo)
+- Grabación de la primera clase:: [YouTube](https://www.youtube.com/watch?v=fNq8sILOalo)
+- Grabación de la segunda clase: [YouTube](https://www.youtube.com/watch?v=bGJM9exLg0A&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=2)
