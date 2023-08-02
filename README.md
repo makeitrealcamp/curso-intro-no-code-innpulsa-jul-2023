@@ -27,6 +27,27 @@ En la primera clase, abordamos los siguientes temas:
    - Explicación de los componentes visuales principales y cómo se utilizan para diseñar la interfaz de usuario.
    - Introducción al flujo de trabajo y cómo configurar acciones y respuestas a eventos.
 
+### Resumen de la Segunda Clase
+
+En nuestra segunda clase, exploramos los siguientes temas:
+
+1. Componentes de Tipo Container:
+   - Introducción a los componentes container y su función como contenedores visuales para otros elementos.
+   - Cómo utilizar los containers para agrupar y organizar otros componentes en la interfaz de usuario.
+
+2. Componente Input Text y Formularios:
+   - Detalles sobre el componente Input Text de la sección Input Form.
+   - Creación de formularios interactivos utilizando el componente Input Text para recopilar información de los usuarios.
+
+3. Creación de Formularios y Workflows:
+   - Diseño y configuración de un formulario pequeño para crear registros.
+   - Establecimiento de un workflow para guardar la información del formulario en la tabla de usuarios.
+
+4. Funcionalidad de Login y Logout:
+   - Configuración de un formulario de login para autenticar a los usuarios.
+   - Implementación de un botón para realizar el logout y cerrar la sesión de usuario.
+
+
 </details>
 
 <details>
