@@ -9,6 +9,7 @@ Se realizarán sesiones en vivo de aproximadamente dos horas al día, del lunes 
 <details>
 <summary><strong>Resumen de las clases</strong></summary>
 
+
 <details>
 <summary><strong>### Resumen de la Primera Clase</strong></summary>
 
