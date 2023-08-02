@@ -7,9 +7,10 @@ En este curso conocerás las bases del desarrollo de aplicaciones No Code. Expan
 Se realizarán sesiones en vivo de aproximadamente dos horas al día, del lunes 31 de julio al viernes 4 de agosto de 2023, de 6 pm a 8 pm. Algunos días se asignarán ejercicios para hacer en casa.
 
 <details>
-<summary><strong>Herramientas</strong></summary>
+<summary><strong>Resumen de las clases</strong></summary>
 
-### Resumen de la Primera Clase
+<details>
+<summary><strong>### Resumen de la Primera Clase</strong></summary>
 
 En la primera clase, abordamos los siguientes temas:
 
@@ -26,8 +27,10 @@ En la primera clase, abordamos los siguientes temas:
 3. Conociendo Bubble.io:
    - Explicación de los componentes visuales principales y cómo se utilizan para diseñar la interfaz de usuario.
    - Introducción al flujo de trabajo y cómo configurar acciones y respuestas a eventos.
+</details>
 
-### Resumen de la Segunda Clase
+<details>
+<summary><strong>### Resumen de la Segunda Clase</strong></summary>
 
 En nuestra segunda clase, exploramos los siguientes temas:
 
@@ -47,7 +50,7 @@ En nuestra segunda clase, exploramos los siguientes temas:
    - Configuración de un formulario de login para autenticar a los usuarios.
    - Implementación de un botón para realizar el logout y cerrar la sesión de usuario.
 
-
+<details>
 </details>
 
 <details>
