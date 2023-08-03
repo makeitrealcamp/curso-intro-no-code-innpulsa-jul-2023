@@ -67,6 +67,10 @@ Interactuar con el editor de Bubble y los diferentes componentes.
 Crea un Formulario para hacer un registro de un usuario y configura las acciónes necesarias para realizar el registro de forma exitosa.
 Crea un Formulario explorando algunos de los componentes Input Forms.
 
+### Día 3.
+
+Realiza el CRUD que hicimos en clase (Create and Read). Intanta completarlo (Update and Delete)
+
 </details>
 
 <details>
@@ -74,6 +78,7 @@ Crea un Formulario explorando algunos de los componentes Input Forms.
 
 - Grabación de la primera clase: [YouTube](https://www.youtube.com/watch?v=fNq8sILOalo)
 - Grabación de la segunda clase: [YouTube](https://www.youtube.com/watch?v=bGJM9exLg0A&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=2)
+- Grabación de la segunda clase: [YouTube](https://www.youtube.com/watch?v=Nbq8CxSLRlw&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=3)
 
 </details>
 
