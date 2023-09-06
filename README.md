@@ -52,6 +52,41 @@ Se realizarán sesiones en vivo de aproximadamente dos horas al día, del lunes 
       - Implementación de un botón para realizar el logout y cerrar la sesión de usuario.
    
 </details>
+
+<details>
+   <summary><strong>Resumen de la Tercera Clase</strong></summary>
+   
+   En nuestra tercera clase, exploramos los siguientes temas:
+   
+   1. Sección Data en Bubble:
+      - En esta sección encontramos una base de datos muy intuitiva en donde podemos crear tablas y columnas según la información 
+        que necesitemos almacenar
+   
+   2. CRUD (Create - Read - Update - Delete)
+      - En la base de datos podemos agregar elementos (Create), leerlos y mostrar la información como deseémos (Read), actualizar         los campos (update), o simplemente eliminarlos (Delete). A este proceso lo conocemos como CRUD, y en esta clase iniciamos         con la elaboración de un sistema de creación de notas    
+</details>
+
+<details>
+   <summary><strong>Resumen de la Cuarta Clase</strong></summary>
+   
+   En nuestra cuarta clase, completamos el CRUD que iniciamos en la sección anterior e integramos la autenticatión. Aprendimos       sobre como filtrar la información de la base de datos para obtener solo aquellos campos que nos interesan   
+</details>
+
+<details>
+   <summary><strong>Resumen de la Quinta Clase</strong></summary>
+   
+   En nuestra tercera clase, exploramos los siguientes temas:
+
+   1. Despliegue de aplicación a producción:
+      - Luego de tener lista la aplicación, decidimos llevarla producción. Bubble nos ofrece hacer este proceso con cualquiera de         sus planes de pago y vemos que con un par de clicks la aplicación está desplegada.
+      - En los planes de pago tenemos una o varias ramas. Aprendimos el concepto de las ramas en desarrollo y como diferenciar el         entorno de desarrollo de el de producción en Bubble.
+   
+   2. Low Code - 8base:
+      - Luego te terminar nuestra aplicación NoCode, vimos una introducción de LowCode a traves de una aplicación que nos da              mucho más poder de control y accesabilidad como lo es 8base.com. Vimos la diferencia entre NoCode y LowCode y aprendimos          que en LowCode es necesario tener algunas bases de programación.
+   
+</details>
+
+
 </details>
 
 <details>
@@ -71,6 +106,10 @@ Crea un Formulario explorando algunos de los componentes Input Forms.
 
 Realiza el CRUD que hicimos en clase (Create and Read). Intanta completarlo (Update and Delete)
 
+### Día 4.
+
+Integra autenticación y enlaza las notas del CRUD que realizamos en clase a un usuario, para que puede filtrar sus notas personales y editarlas. Si no es el duelo de la nota, no puede editarla.
+
 </details>
 
 <details>
@@ -78,8 +117,9 @@ Realiza el CRUD que hicimos en clase (Create and Read). Intanta completarlo (Upd
 
 - Grabación de la primera clase: [YouTube](https://www.youtube.com/watch?v=fNq8sILOalo)
 - Grabación de la segunda clase: [YouTube](https://www.youtube.com/watch?v=bGJM9exLg0A&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=2)
-- Grabación de la segunda clase: [YouTube](https://www.youtube.com/watch?v=Nbq8CxSLRlw&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=3)
-
+- Grabación de la tercera clase: [YouTube](https://www.youtube.com/watch?v=Nbq8CxSLRlw&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=3)
+- Grabación de la cuarta clase: [YouTube](https://www.youtube.com/watch?v=M7sxZk5PyJc&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=4)
+- Grabación de la quinta clase: [YouTube](https://www.youtube.com/watch?v=uH_flPq54Ks&list=PLxyfMWnjW2kscw0zVPDEh-J12RtmfjiUV&index=5)
 </details>
 
 <details>
